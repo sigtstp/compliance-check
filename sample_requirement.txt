@@ -1,0 +1,1 @@
+As a user I want to authenticate to the system via simple email - password authentication and be redirected right to the admin portal.
